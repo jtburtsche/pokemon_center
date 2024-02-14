@@ -1,0 +1,43 @@
+In order to get the program to run there are some simple steps that you must take. You have two options to run the program.
+
+
+Option 1 VIA IDE:
+
+Step 1- You must unzip the file. In order to do this you right click on the zip file in your library. This will bring up
+the options. Once you have the options loaded simply select extract all. Feel free to save this as whatever you want, as it will
+be the directory that you will load into your IDE.
+
+Step 2- Load up your IDE and open up the directory that you just saved
+
+Step 3- Begin running pokemon_center.py inside the directory.
+
+
+Option 2 VIA CLI:
+
+Step 1- You must unzip the file. In order to do this you right click on the zip file in your library. This will bring up
+the options. Once you have the options loaded simply select extract all. Feel free to save this as whatever you want, as it will
+be the directory that you will load into your IDE.
+
+Step 2- Load up your command prompt and make your way to the directory that you just saved.
+
+Step 3- Begin running pokemon_center.py using one of the following
+
+   Windows:
+    python pokemon_center.py
+
+   MAC:
+    python pokemon_center.py
+
+   Linux
+   python3 pokemon_center.py
+
+
+Must have libraries: pip install if you do not
+OS
+JSON
+SOCKET
+STRING
+REQUESTS
+TIME
+TYPING
+COLORAMA
