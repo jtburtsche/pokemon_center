@@ -24,6 +24,8 @@ and work easily together. We need to keep our chat positive. There isn’t reall
 punishment that comes with this rule because we are adults. However, we need to keep
 this rule in mind to ensure good productivity.
 
+
+
 Microservice How Too:
 
 Requesting Data:
@@ -42,10 +44,13 @@ The Super Mario Bros. Movie
 
 
 
-Receiving data
+Receiving data:
 
 1. Once you receive the dict from the server you can request whatever information that you want about the film. Take a look at line
 27 in microservice_client.py. It gives you an example call that you can use.
 
 2. Mess around with the information that you want to work with. Try sending it other movie links. If you have any problems let me
 know!
+
+
+UML is separate pdf for image purposes:
