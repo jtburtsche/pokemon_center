@@ -8,7 +8,7 @@ def tcp_server():
     #sets up server with port and address
     server_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_address = '127.0.0.1'
-    server_port = 12451
+    server_port = 12452
     server_sock.bind((server_address, server_port))
 
     #holds up to 5 connections and confirms it's listening

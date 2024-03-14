@@ -7,7 +7,7 @@ def tcp_client(url):
     #sets up the socket with a port number and server_address
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_address = '127.0.0.1'
-    server_port = 12451
+    server_port = 12452
 
     try:
 
